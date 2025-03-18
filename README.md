@@ -1,4 +1,4 @@
-# Análisis de Sentimientos y Dashboard para Optimización de Ubicación de Pizzería en New Jersey/New York
+# Dashboard, Análisis de Sentimientos y Sistema de recomendaciones de local para Optimización de Ubicación de Pizzería en New Jersey/New York
 
 ![alt text](<Assets/Pizza Hut portada.png>)
 
